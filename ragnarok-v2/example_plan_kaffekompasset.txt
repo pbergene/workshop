@@ -1,0 +1,9 @@
+We are launching KAFFEKOMPASSET — the world's first AI-powered coffee break optimisation platform. 
+
+Using computer vision on existing office webcams, our AI monitors employee facial expressions during coffee breaks to calculate a real-time Happiness Score. A multi-agent system then optimises break schedules across the entire organisation, auto-orders artisanal coffee beans via a subscription box when morale dips below threshold, and nudges employees via Slack when the AI determines they "look like they need a break."
+
+Norway is our beachhead market because Norwegians drink more coffee per capita than almost any other nation, which we believe makes it a €2B opportunity. We charge €199 per employee per month. Our target is 50 large Norwegian enterprises in year one.
+
+We have a team of two co-founders (one does "the AI stuff", one does "the business stuff"), and we are currently pre-revenue, pre-product, and pre-team. We have registered a company and bought the domain. We expect to be profitable by Q3.
+
+We will differentiate by adding a blockchain layer to ensure employees can verify their own Happiness Score on-chain, and we are exploring a KAFFEKOMPASSET token (KKT) that employees earn for taking optimal breaks. We have not yet spoken to any potential customers because we don't want competitors to steal the idea.
