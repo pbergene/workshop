@@ -1,0 +1,76 @@
+⚡ RAGNARÖK — The Chaos Agent That Stress-Tests Your Business Plan Before the Market Does
+
+RAGNARÖK is a multi-agent AI system that tears apart any business plan, pitch deck,
+or product idea from four independent adversarial perspectives simultaneously,
+then synthesises a survival verdict and a reborn plan.
+
+You get brutal honesty in 60 seconds. The kind your investors won't give you until it's too late.
+
+─────────────────────────────────────────────
+THE AGENT PANTHEON (Norse mythology, obviously)
+─────────────────────────────────────────────
+
+🐺 FENRIR       — Market & competitive destruction
+                  Attacks TAM claims, pricing, moat, and competitive dynamics.
+                  If your market doesn't exist, Fenrir finds out first.
+
+🌊 JÖRMUNGANDR  — Technical & infrastructure destruction  
+                  Attacks your tech stack, scalability, build complexity, and cost structure.
+                  If your cloud bill exceeds your revenue, Jörmungandr calculated it already.
+
+🔥 SURTR        — People & organisational destruction
+                  Attacks team size, hiring plan, culture risk, and founder behaviour.
+                  If two people cannot build what you've promised, Surtr will say so.
+
+💀 HEL          — Legal & regulatory destruction
+                  Attacks GDPR violations, licensing gaps, and liability exposure.
+                  If your pitch deck contains its own compliance confession, Hel will quote it back to you.
+
+👁️ ODIN         — Synthesis & reborn plan
+                  Reads all four chaos reports. Issues a RAGNARÖK Score (0–100).
+                  Kills the wrong assumptions. Forges a survival plan from the wreckage.
+
+─────────────────────────────────────────────
+HOW IT WORKS
+─────────────────────────────────────────────
+
+Input:   Any text — pitch deck, business plan, product brief, napkin idea
+Process: FENRIR, JÖRMUNGANDR, SURTR, and HEL run in parallel (async)
+         Each streams findings directly to a markdown report file in real time
+         ODIN reads all four reports and synthesises the final verdict
+Output:  Structured multi-agent workspace with individual agent reports + master INDEX.md
+
+Two implementations:
+  v1 — Python async agents, rich terminal UI, structured JSON output
+  v2 — File-streaming agents, each writes live to .md files (true filesystem-based communication)
+
+─────────────────────────────────────────────
+DEMO: RAGNARÖK ON ITSELF
+─────────────────────────────────────────────
+
+We ran RAGNARÖK on its own pitch. Score: TBD.
+(We are aware this is either very confident or very stupid. Odin will decide.)
+
+─────────────────────────────────────────────
+HACKATHON SCORING ALIGNMENT
+─────────────────────────────────────────────
+
+✅ Unique idea          — Adversarial multi-agent stress-testing is novel in this space
+✅ Multiple agents      — 5 named agents with distinct, non-overlapping roles
+✅ Creative name        — RAGNARÖK (the Norse apocalypse). Named after the end of the world.
+✅ Full MVP             — Two working implementations. Input any text. Get a report.
+❓ Fewest teams         — Depends on category selection (recommend: "risk management" or "strategy")
+
+─────────────────────────────────────────────
+BUILT WITH
+─────────────────────────────────────────────
+
+Language:    Python 3.12+
+LLM:         OpenAI GPT-4o (configurable)
+UI:          Rich terminal (v1) / live file streaming (v2)
+Output:      Markdown reports, self-contained workspace folders
+Time to build: ~4 hours (two developers, one hackathon, zero regrets)
+
+─────────────────────────────────────────────
+
+"Every plan survives until it meets RAGNARÖK."
