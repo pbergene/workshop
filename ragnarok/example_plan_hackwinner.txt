@@ -1,0 +1,29 @@
+🏆 VINNERMASKIN AS — The World's First AI Agent Platform for Winning AI Hackathons
+
+We have solved the hardest problem in enterprise AI: knowing which AI idea to build.
+
+VINNERMASKIN deploys a swarm of specialised AI agents that analyse any hackathon brief,
+benchmark it against a proprietary Victory Database™ of 10,000+ winning submissions,
+generate the optimal multi-agent solution architecture, write the code, and submit it —
+all before your competitors have finished arguing about which Python framework to use.
+
+Our agents:
+  🧠 STRATEGOS   — reads the brief, scores all possible solution categories, picks the winner
+  🏗️  ARCHITEX    — designs the multi-agent system architecture for maximum judge impressiveness
+  💻 CODEX       — generates production-ready Python code with zero human involvement
+  🎤 PITCHBOT    — crafts the demo script, slide deck, and judges Q&A pre-answers
+  🥇 WINNR       — submits the solution and monitors leaderboard in real time
+
+We are disrupting the $47 billion global hackathon economy.
+Hackathons are no longer about ideas. They are about execution speed.
+VINNERMASKIN gives any team — regardless of skill, creativity, or preparation —
+a statistically guaranteed path to the podium.
+
+💰 Price:      €999 per hackathon (pay only when you win — 40% success fee on prize money)
+🎯 Target:     Enterprise innovation teams, Big 4 consulting firms, university CS departments
+👥 Team:       3 ex-hackathon champions (combined 14 first-place finishes across 6 countries)
+📅 Status:     Beta. We used VINNERMASKIN to design VINNERMASKIN. It worked.
+🚀 Timeline:   $1M ARR by end of year. We already know we will win this hackathon.
+
+The irony of using AI to win an AI hackathon is not lost on us.
+It is, in fact, the entire point. 🤖🏆
